@@ -1,5 +1,7 @@
 # Vesperis
 
+![Vesperis Logo](/logo.png)
+
 ## What is Vesperis?
 Vesperis is a public minecraft server that has a variety of fun games. It can handle thousands of players and is easily expendable.
 
