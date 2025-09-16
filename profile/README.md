@@ -1,12 +1,25 @@
-## Hi there 👋
+# Vesperis
 
-<!--
+## What is Vesperis?
+Vesperis is a public minecraft server that has a variety of fun games. It can handle thousands of players and is easily expendable.
 
-**Here are some ideas to get you started:**
+## Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Vesperis Multi Proxy (vesperis-mp)
+The proxy that is used in our network. Using Redis to "talk" to eachother, creating a system where players can transfer, message, view, etc. with ease. 
+
+View repository [here](https://github.com/team-vesperis/vesperis-mp)
+
+### Vesperis Lobby (vesperis-lobby)
+A lobby that uses Minestom to easily hold hundreds of players with minimum resources.
+
+View repository [here](https://github.com/team-vesperis/vesperis-lobby)
+
+## Creaters
+
+### BorisP
+Main developer.
+[Github](https://github.com/BorisP1234)
+
+### Wissel_K
+Main builder.
